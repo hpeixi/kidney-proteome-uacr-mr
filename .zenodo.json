@@ -1,0 +1,34 @@
+{
+  "title": "Circulating plasma proteins and albuminuria: cis-pQTL Mendelian randomization and colocalization (analysis code and derived tables)",
+  "upload_type": "software",
+  "version": "1.0.2",
+  "publication_date": "2026-11-01",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Huang, Peixi",
+      "affiliation": "Fujian University of Traditional Chinese Medicine"
+    },
+    {
+      "name": "Hong, Dingzhuo",
+      "affiliation": "The Second Affiliated Hospital of Guizhou Medical University"
+    },
+    {
+      "name": "Gao, Zhiyuan",
+      "affiliation": "The Second Affiliated Hospital of Guizhou Medical University"
+    },
+    {
+      "name": "Zhang, Xikui",
+      "affiliation": "Fujian University of Traditional Chinese Medicine"
+    }
+  ],
+  "keywords": [
+    "albuminuria",
+    "Mendelian randomization",
+    "plasma proteome",
+    "colocalization",
+    "chronic kidney disease"
+  ],
+  "description": "Analysis code and derived result tables for a two-sample cis-pQTL Mendelian randomization and colocalization study of circulating plasma proteins and the urinary albumin-to-creatinine ratio, with independent replication in UKB-PPP and EBI pQTL panels. All input summary statistics are public; no individual-level data were used."
+}
