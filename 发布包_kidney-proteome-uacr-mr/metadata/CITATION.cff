@@ -10,6 +10,7 @@ authors:
     given-names: Peixi
     affiliation: "Fujian University of Traditional Chinese Medicine, Fuzhou, China"
     email: hpeixi@foxmail.com
+    orcid: "https://orcid.org/0009-0004-5436-7788"
   - family-names: Hong
     given-names: Dingzhuo
     affiliation: "The Second Affiliated Hospital of Guizhou Medical University, Kaili, China"
@@ -20,8 +21,8 @@ authors:
     given-names: Xikui
     affiliation: "Fujian University of Traditional Chinese Medicine, Fuzhou, China"
     email: 623067910@qq.com
-repository-code: "https://github.com/PLACEHOLDER_USER/PLACEHOLDER_REPO"
-doi: "10.5281/zenodo.PLACEHOLDER"
+repository-code: "https://github.com/hpeixi/kidney-proteome-uacr-mr"
+doi: "10.5281/zenodo.23851409"
 keywords:
   - albuminuria
   - Mendelian randomization
