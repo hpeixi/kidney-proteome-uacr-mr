@@ -1,0 +1,8 @@
+DOI: 10.5281/zenodo.23851409
+Repository: https://github.com/hpeixi/kidney-proteome-uacr-mr
+Version: v1.0.0
+Status: minted 2026-11-01 via Zenodo GitHub integration
+
+Note: this DOI refers to the v1.0.0 snapshot. If the repository is re-released
+(e.g. v1.0.1 after adding LICENSE and .zenodo.json), a new version DOI will be
+created; the concept DOI remains stable and should be used when citing all versions.
