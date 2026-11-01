@@ -1,4 +1,0 @@
-gene,panel,n_cis_snp,beta_replication,se_replication,p_replication,beta_prota,direction,status
-SERPINA10,ebi-a-GCST90019385,3.0,-0.0098151132161376,0.0027711031521426,0.0003971783583711,-0.0123473533277572,一致,ok
-ANGPTL1,ebi-a-GCST90010282,,,,,,—,无可用 cis 位点（候选 0）
-BAG3,UKB-PPP GCST90468416,405.0,-0.031528873267545,0.0025218382706079,7.248800986027001e-36,0.05145,相反,已完成（方向相反）
